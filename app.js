@@ -105,5 +105,4 @@ $(document).ready(function (e) {
     })
 });
 
-//[10/21/2019] Made good progress, basic functionality in place. Picking back up here tomorrow
-//[06/07/2020] Everything is broken and I don't know why
+// test for github slack integration
